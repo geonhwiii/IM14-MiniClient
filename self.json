@@ -27,29 +27,29 @@
   },
   "server": {
     "basic": {
-      "json": 3,
+      "json": 1,
       "setting": 2,
-      "runs": 3,
+      "runs": 1,
       "readme": 2,
-      "secret": 3,
-      "controller": 0,
+      "secret": 1,
+      "controller": 4,
       "router": 2,
-      "model": 0,
-      "docs": 1,
+      "model": 4,
+      "docs": 3,
       "error_server": 2,
-      "data": 0,
-      "db": 0,
-      "env": 3,
+      "data": 4,
+      "db": 4,
+      "env": 1,
       "git": 2
     },
     "advanced": {
-      "middleware": 3,
-      "mvc": 3,
-      "error_client": 0,
-      "adv_01": 1,
-      "adv_02": 1,
-      "system": 0,
-      "script": 0
+      "middleware": 4,
+      "mvc": 4,
+      "error_client": 2,
+      "adv_01": 4,
+      "adv_02": 4,
+      "system": 4,
+      "script": 4
     }
   }
 }
