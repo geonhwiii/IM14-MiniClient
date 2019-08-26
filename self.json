@@ -28,19 +28,19 @@
   "server": {
     "basic": {
       "json": 3,
-      "setting": 0,
-      "runs": 0,
-      "readme": 0,
+      "setting": 2,
+      "runs": 3,
+      "readme": 2,
       "secret": 3,
       "controller": 0,
-      "router": 0,
+      "router": 2,
       "model": 0,
-      "docs": 0,
-      "error_server": 0,
+      "docs": 1,
+      "error_server": 2,
       "data": 0,
       "db": 0,
-      "env": 0,
-      "git": 0
+      "env": 3,
+      "git": 2
     },
     "advanced": {
       "middleware": 3,
