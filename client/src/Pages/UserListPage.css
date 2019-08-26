@@ -1,0 +1,11 @@
+.UserListPage ul li {
+  width: 50px;
+  text-align: center;
+  border: 0.1px solid rgba(0, 0, 0, 0.1);
+  list-style: none;
+  padding: 1rem;
+  transition: all 0.5s;
+}
+.UserListPage ul li:hover {
+  background: rgba(0, 0, 0, 0.1);
+}

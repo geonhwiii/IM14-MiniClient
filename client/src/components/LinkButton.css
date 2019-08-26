@@ -1,0 +1,15 @@
+.LinkButton .link {
+  margin: 0.5rem;
+  width: 120px;
+  height: 60px;
+  display: inline-block;
+
+  color: white;
+  border-radius: 8px;
+  border: none;
+  background: #0077ff;
+
+  line-height: 60px;
+  text-align: center;
+  text-decoration: none;
+}

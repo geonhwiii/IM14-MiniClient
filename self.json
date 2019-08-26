@@ -1,0 +1,55 @@
+{
+  "client": {
+    "basic": {
+      "json": 3,
+      "setting": 3,
+      "design": 3,
+      "readme": 2,
+      "render_01": 2,
+      "render_02": 1,
+      "router": 2,
+      "fetch": 3,
+      "cond_render": 0,
+      "css": 1,
+      "git": 3
+    },
+    "advanced": {
+      "link": 3,
+      "back": 3,
+      "deploy": 0,
+      "loading": 1,
+      "responsive": 1,
+      "posting": 0,
+      "pagination": 0,
+      "reply": 0,
+      "env": 0
+    }
+  },
+  "server": {
+    "basic": {
+      "json": 3,
+      "setting": 0,
+      "runs": 0,
+      "readme": 0,
+      "secret": 3,
+      "controller": 0,
+      "router": 0,
+      "model": 0,
+      "docs": 0,
+      "error_server": 0,
+      "data": 0,
+      "db": 0,
+      "env": 0,
+      "git": 0
+    },
+    "advanced": {
+      "middleware": 3,
+      "mvc": 3,
+      "error_client": 0,
+      "adv_01": 1,
+      "adv_02": 1,
+      "system": 0,
+      "script": 0
+    }
+  }
+}
